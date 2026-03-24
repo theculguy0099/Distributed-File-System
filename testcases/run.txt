@@ -1,0 +1,3 @@
+mpic++ -w -std=c++11 3.cpp -pthread
+upload run.txt ../3/run.txt
+retrieve run.txt
